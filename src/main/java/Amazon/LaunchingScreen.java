@@ -17,7 +17,10 @@ public static void main(String[] args) throws InterruptedException {
 	System.out.println("This is the code Arnik is pushing to the Master");
 	System.out.println("Best of luck");
 
+	//SNow changing the code after taking the pull
 	
+	System.out.println("This is the change after taking the pull from the master");
+	System.out.println("Let's see what happen");
 	
 	
 }
