@@ -25,6 +25,9 @@ public static void main(String[] args) throws InterruptedException {
 	//change after creating a new branch
 	System.out.println("AFTER A NEW BRANCH CREATION");
 	
+	//Code changes from the American guy for the develop branch
+	System.out.println("American guy's development activity");
+	
 	
 }
 }
