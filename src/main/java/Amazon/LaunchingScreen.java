@@ -14,7 +14,10 @@ public static void main(String[] args) throws InterruptedException {
 	WebDriver driver=new ChromeDriver();
 	driver.get("https://www.amazon.in/");
 	driver.manage().window().maximize();
+	System.out.println("This is the code Arnik is pushing to the Master");
+	System.out.println("Best of luck");
 
+	
 	
 	
 }
