@@ -22,6 +22,9 @@ public static void main(String[] args) throws InterruptedException {
 	System.out.println("This is the change after taking the pull from the master");
 	System.out.println("Let's see what happen");
 	
+	//change after creating a new branch
+	System.out.println("AFTER A NEW BRANCH CREATION");
+	
 	
 }
 }
